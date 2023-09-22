@@ -31,7 +31,7 @@
 </h3>
 <br>
 • 🖥️ Student at @42School. <br>
-• 🔭 Currently learning C, JavaScript and Python. <br>
+• 🔭 Currently learning C, JavaScript and Python. <br><br>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4h5ba05bm1woc9ob9fgxhy6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=da7885&width=350&bar_color_cover=false"/>
 • 🌷 I like to code, read and draw in my freetime.
      </div>
