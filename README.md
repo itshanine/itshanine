@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi, I'm Hanine.<br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=DA7885&vCenter=true&repeat=false&width=242&lines=  welcome+to+my+world."/><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=DA7885&vCenter=true&repeat=true&width=242&lines=  welcome+to+my+world."/><br>
   <a href="https://github.com/itshanine">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
