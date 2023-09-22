@@ -1,6 +1,6 @@
 <h2 align="center">
   Hi, I'm Hanine.<br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=DA7885&vCenter=true&repeat=true&width=242&lines=  welcome+to+my+world."/><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=e44753&vCenter=true&repeat=true&width=242&lines=  welcome+to+my+world."/><br>
   <a href="https://github.com/itshanine">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -19,8 +19,8 @@
 
 <div style="width: 320px; position: absolute; float: right;">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itshanine&layout=compact&card_width=310&bg_color=0d1116&border_color=da7885&title_color=da7885&lang_count=2">
-    <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshanine&layout=compact&card_width=310&bg_color=fffefe&border_color=da7885&title_color=da7885&lang_count=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itshanine&layout=compact&card_width=310&bg_color=0d1116&border_color=9e2e36&title_color=e44753&lang_count=2">
+    <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshanine&layout=compact&card_width=310&bg_color=fffefe&border_color=9e2e36&title_color=9e2e36&lang_count=2">
     </picture>
 </div>
 
@@ -34,7 +34,7 @@
 • 🔭 Currently learning C, JavaScript and Python. <br>
 • 🌷 I like to code, read and draw in my freetime.<br>
 • 👋🏼 Feel free to clone projects !
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4h5ba05bm1woc9ob9fgxhy6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=da7885&width=350&bar_color_cover=false"/>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=4h5ba05bm1woc9ob9fgxhy6eu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=e44753&width=350&bar_color_cover=false"/>
      </div>
 </div>
 
@@ -42,7 +42,7 @@
   <summary><h3>Click here. 👀</h3></summary>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itshanine&show_icons=true&bg_color=0d1116&title_color=da7885&border_color=da7885&icon_color=be323d&show_icons=false&text_color=d4a7a2">
-    <img src="https://github-readme-stats.vercel.app/api?username=itshanine&show_icons=true&bg_color=fffefe&title_color=da7885&border_color=da7885&icon_color=be323d&show_icons=false&text_color=505d6c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itshanine&show_icons=true&bg_color=0d1116&title_color=9e2e36&border_color=9e2e36&icon_color=be323d&show_icons=false&text_color=e44753&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=itshanine&show_icons=true&bg_color=fffefe&title_color=9e2e36&border_color=9e2e36&icon_color=be323d&show_icons=false&text_color=505d6c">
   </picture>
 </details>
